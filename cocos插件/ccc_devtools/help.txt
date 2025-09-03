@@ -1,0 +1,1 @@
+將preview-template資料夾放到專案目錄下(與assets同層)
