@@ -1,0 +1,16 @@
+1.嚴格模式
+2.eslint
+3.節點樹顯示與spine自動播放插件
+4.tsconfig.json設置compilerOptions/paths連結縮寫(因為TypeScript)，且項目設置/腳本的importMap需要連結import-map.json文件才可以正常使用path連結
+
+
+學習:
+1.npm是怎麼安裝的?
+
+待學習:
+如何自動安裝專案上的npm:開啟專案直接輸入npm install 或npm i
+eslint怎麼使用
+
+
+沈樂會
+

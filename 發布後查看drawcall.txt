@@ -1,0 +1,2 @@
+主控台輸入:
+cc.debug.setDisplayStats(true);
